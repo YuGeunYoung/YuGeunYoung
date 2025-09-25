@@ -5,6 +5,6 @@
 - 이름: 유근영
 
 - Email: skm99086@naver.com
-- GitHub: (https://github.com/YuGeunYoung)
+- GitHub: https://github.com/YuGeunYoung
 
 
